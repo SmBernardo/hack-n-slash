@@ -1,2 +1,7 @@
-# hack-n-slash
-Game desenvolvido na faculdade
+
+# Hack-n-Slash Game
+
+Game desenvolvido na faculdade.
+
+
+
